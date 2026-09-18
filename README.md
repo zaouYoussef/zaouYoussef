@@ -61,11 +61,6 @@ Currently looking for a **PFE internship in Cybersecurity, Cloud Security or E-P
 
 ## 🚀 Featured Projects
 
-### 🔐 SecurePay — Secure Payment Platform
-
-Secure payment architecture combining OAuth 2.0 / OpenID Connect, Keycloak, FastAPI, tokenization, PostgreSQL, fraud scoring, Kong / NGINX, and Kafka / RabbitMQ.
-
-> Focus: secure authentication, transaction protection and scalable payment architecture.
 
 ### ☁️ AWS Secure Cloud Architecture
 
